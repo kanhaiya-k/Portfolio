@@ -1,17 +1,17 @@
 const ParticleConfig = {
   particles: {
     number: {
-      value: 80,
+      value: 216,
       density: {
         enable: true,
-        value_area: 800,
+        value_area: 801.2050123385578,
       },
     },
     color: {
-      value: "#23c4ed",
+      value: "#e6d3d3",
     },
     shape: {
-      type: "circle",
+      type: "edge",
       stroke: {
         width: 0,
         color: "#000000",
@@ -26,7 +26,7 @@ const ParticleConfig = {
       },
     },
     opacity: {
-      value: 0.5,
+      value: 0.2884338044418808,
       random: false,
       anim: {
         enable: false,
@@ -40,7 +40,7 @@ const ParticleConfig = {
       random: true,
       anim: {
         enable: false,
-        speed: 40,
+        speed: 155.81253804017052,
         size_min: 0.1,
         sync: false,
       },
@@ -106,7 +106,7 @@ const ParticleConfig = {
       },
     },
   },
-  retina_detect: false,
+  retina_detect: true,
 };
 
 export default ParticleConfig;

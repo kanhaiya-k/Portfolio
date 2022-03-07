@@ -37,7 +37,7 @@ function Projects() {
               title="H&M"
               description="H&M is a family of brands, driven by our desire to make great design available to everyone in a sustainable way. Together we offer fashion, design and services, that enable people to be inspired and to express their own personal style, making it easier to live in a more circular way."
               live="https://github.com/Smrutiranjan-Patra/HMClothing"
-              link="https://hmclothing-n5ej6cq09-vipchoudhary13.vercel.app/"
+              link="https://hmclothing-n5ej6cq09-vipchoudhary13.vercel.app"
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               title="Beardo.in"
               description="Beardo is a Ahmedabad-based men's grooming brand and start-up that sells beard oils, beard waxes, soaps and other grooming products. It is owned by Zed Lifestyle Pvt. Ltd. Beardo was founded in 2015 by Ashutosh Valani and Priyank Shah."
               live="https://github.com/kanhaiya-k/beardo_clone"
-              link="#"
+              link="https://beardo-clone.netlify.app"
             />
           </Col>
         </Row>

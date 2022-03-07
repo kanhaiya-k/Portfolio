@@ -18,9 +18,6 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
               <ImPointRight /> Reading Tech Blogs
             </li>
             <li className="about-activity">
@@ -29,7 +26,8 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Everyday life is like programming, I guess.If you love something
+            you can put beauty on it."{" "}
           </p>
           <footer className="blockquote-footer">Kanhaiya </footer>
         </blockquote>

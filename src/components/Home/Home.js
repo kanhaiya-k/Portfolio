@@ -5,9 +5,6 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import ParticleBackground from "./Particlejs/Particlebackground";
-import About from "../About/About";
-import Projects from "../Projects/Projects";
-import ResumeNew from "../Resume/ResumeNew";
 
 function Home() {
   return (
@@ -41,9 +38,7 @@ function Home() {
         </Container>
       </Container>
       <ParticleBackground />
-      <About />
-      <Projects />
-      <ResumeNew />
+
       <Home2 />
     </section>
   );
